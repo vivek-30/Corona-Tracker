@@ -17,3 +17,7 @@ It uses mapbox to plot differnt covid cases all over the world and allow user to
 ```bash
 Mapbox,Javscript,HTML,CSS 
  ```
+
+ ## Deployed On Heroku - 
+
+ [view it here](https://corona-tracker.herokuapp.com)
