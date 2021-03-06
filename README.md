@@ -20,4 +20,4 @@ Mapbox,Javscript,HTML,CSS
 
  ## Deployed On Heroku - 
 
- [view it here](https://corona-tracker.herokuapp.com)
+ <a href="https://corona-tracker.herokuapp.com" target="_blank">View It Here</a>
