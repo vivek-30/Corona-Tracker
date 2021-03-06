@@ -1,10 +1,9 @@
-
 let latitude = 0;
 let longitude = 0;
 let color = "rgb(0,0,0)";
 
 const Plot = () => {
-    fetch('../data/countries.json')
+    fetch('../data/stats.json')
     .then(res=>{
         return res.json();
     })
